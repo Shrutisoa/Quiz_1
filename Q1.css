@@ -1,0 +1,31 @@
+h2{
+    text-align: center;
+    background-color:white;
+    font-size:120%;
+}
+#para{
+    background-color: green;
+}
+#text{
+    background-color: green;
+}
+p{
+    border: 5px;
+    border-color: yellow;
+    border-style: dashed;
+}
+#take{
+    background:linear-gradient(to bottom,blue)
+}
+.mytext{
+        background-color: blue;
+    }
+   
+.tool{
+    border:5px solid;
+    border-color: blueviolet;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+    
